@@ -1,4 +1,4 @@
-# Openclassrooms JavaScript - React Developer path -- List of my projects
+# List of my OpenClassrooms Github hosted projects
 
 ## Description
 
