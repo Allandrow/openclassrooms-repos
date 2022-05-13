@@ -1,10 +1,5 @@
 # Openclassrooms JavaScript - React Developer path -- List of my projects
 
-## Table of Contents
-
-- [Description](#description)
-- [Repos and Demos](#repos-and-demos-quick-links)
-
 ## Description
 
 You'll find here the complete list of my completed and in progress projects that I started back in March 2021.
