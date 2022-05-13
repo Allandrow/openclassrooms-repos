@@ -2,19 +2,15 @@
 
 ## Table of Contents
 
-1. [Description](#description)
-2. [Projects](#projects)
-   1. [Repos and Demos](#repos-and-demos-quick-links)
-   2. [Projects Overview](#projects-overview)
+- [Description](#description)
+- [Repos and Demos](#repos-and-demos-quick-links)
 
 ## Description
 
 You'll find here the complete list of my completed and in progress projects that I started back in March 2021.
 Some projects weren't based on code production so they won't be featured in this list, so don't be alarmed to see some gaps in project numbers !
 
-## Projects
-
-### Repos and Demos quick links
+## Repos and Demos quick links
 
 |  #   |                          Repository Link                          |                          Demo / Docs Page                          |
 | :--: | :---------------------------------------------------------------: | :----------------------------------------------------------------: |
@@ -29,7 +25,3 @@ Some projects weren't based on code production so they won't be featured in this
 |  13  | [Repository](https://github.com/Allandrow/CyrilTiger_13_01122021) |                                N/A                                 |
 | 14-1 | [Repository](https://github.com/Allandrow/CyrilTiger_14_25012022) |                                N/A                                 |
 | 14-2 |   [Repository](https://github.com/Allandrow/React-TS-dataTable)   |      [Docs](https://allandrow.github.io/React-TS-dataTable/)       |
-
-### Projects Overview
-
-WIP
